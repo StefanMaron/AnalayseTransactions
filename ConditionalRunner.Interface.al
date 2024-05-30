@@ -1,0 +1,4 @@
+interface ConditionalRunner
+{
+    procedure ConditionalRun();
+}
